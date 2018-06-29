@@ -1,7 +1,7 @@
 # start_template
 
     pug-php-filter 
-provides a pug php filter
+#provides a pug php filter
 
 
     :php
