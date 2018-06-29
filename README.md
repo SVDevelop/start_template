@@ -8,7 +8,8 @@
    renders:
 
     <?php echo "hello world"; ?>
-Here's an example:
+ Here's an example:
+
       var pug = require('pug'),
           pugPHPFilter = require('pug-php-filter');
 
